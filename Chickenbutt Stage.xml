@@ -1,0 +1,2029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Layer name="1.1 Tower Chauvet R3 Spots">
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="501" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-14.997" y="-51.018" z="9.678" />
+					<Rotation x="-0.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="502" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>20</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-13.925" y="-49.990" z="9.678" />
+					<Rotation x="0.0" y="-0.0" z="90.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="503" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>39</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-14.988" y="-48.931" z="9.678" />
+					<Rotation x="-180.0" y="180.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="504" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>58</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-16.040" y="-49.966" z="9.678" />
+					<Rotation x="0.0" y="-0.0" z="-90.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="505" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>77</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-14.997" y="-81.008" z="9.678" />
+					<Rotation x="-0.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="506" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>96</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-13.925" y="-79.980" z="9.678" />
+					<Rotation x="0.0" y="-0.0" z="90.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="507" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>115</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-14.988" y="-78.921" z="9.678" />
+					<Rotation x="-180.0" y="180.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="508" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>134</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-16.040" y="-79.956" z="9.678" />
+					<Rotation x="0.0" y="-0.0" z="-90.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="509" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>153</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="15.003" y="-51.018" z="9.678" />
+					<Rotation x="-0.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="510" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>172</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="16.075" y="-49.990" z="9.678" />
+					<Rotation x="0.0" y="-0.0" z="90.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="511" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>191</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="15.012" y="-48.931" z="9.678" />
+					<Rotation x="-180.0" y="180.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="512" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>210</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="13.960" y="-49.966" z="9.678" />
+					<Rotation x="0.0" y="-0.0" z="-90.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="513" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>229</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="15.003" y="-81.008" z="9.678" />
+					<Rotation x="-0.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="514" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>248</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="16.075" y="-79.980" z="9.678" />
+					<Rotation x="0.0" y="-0.0" z="90.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="515" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>267</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="15.012" y="-78.921" z="9.678" />
+					<Rotation x="-180.0" y="180.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R3 Spot 19 Channel Mode" fixture_id="516" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R3 Spot 19 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>286</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="13.960" y="-79.956" z="9.678" />
+					<Rotation x="0.0" y="-0.0" z="-90.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+	<Layer name="1.2 Chauvet Rogue R2 Wash">
+		<Fixture name="Chauvet Rogue R2X Wash 17 Channel" fixture_id="401" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R2X Wash 17 Channel">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>322</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.767" y="-3.532" z="5.066" />
+					<Rotation x="-0.0" y="160.7" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R2X Wash 17 Channel" fixture_id="402" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R2X Wash 17 Channel">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>305</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.520" y="-3.532" z="5.358" />
+					<Rotation x="0.0" y="173.6" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R2X Wash 17 Channel" fixture_id="403" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R2X Wash 17 Channel">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>339</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.520" y="-3.532" z="5.358" />
+					<Rotation x="0.0" y="-173.6" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Chauvet Rogue R2X Wash 17 Channel" fixture_id="404" channel_id="0">
+			<FixtureType name="1 Chauvet Rogue R2X Wash 17 Channel">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>356</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.767" y="-3.532" z="5.066" />
+					<Rotation x="-0.0" y="-160.7" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+	<Layer name="1.3 Martin Quantum Profile">
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="101" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>373</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-18.359" y="-0.118" z="4.948" />
+					<Rotation x="-0.0" y="173.3" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="102" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>392</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-16.248" y="-0.118" z="5.550" />
+					<Rotation x="-0.0" y="155.3" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="103" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>411</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-14.504" y="-0.118" z="6.750" />
+					<Rotation x="0.0" y="137.3" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="104" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>430</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-13.267" y="-0.118" z="8.360" />
+					<Rotation x="-0.0" y="119.3" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="105" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>449</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-11.770" y="-0.118" z="8.330" />
+					<Rotation x="-0.0" y="-119.2" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="106" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>468</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-10.405" y="-0.118" z="6.611" />
+					<Rotation x="-0.0" y="-137.2" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="107" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>487</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-8.627" y="-0.118" z="5.460" />
+					<Rotation x="0.0" y="-155.2" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="108" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>513</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.666" y="-0.118" z="4.935" />
+					<Rotation x="0.0" y="-173.2" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="109" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>532</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-4.954" y="-0.118" z="4.933" />
+					<Rotation x="0.0" y="173.3" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="110" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>551</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-3.297" y="-0.118" z="5.631" />
+					<Rotation x="-0.0" y="141.8" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="111" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>570</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.163" y="-0.118" z="6.857" />
+					<Rotation x="-0.0" y="123.8" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="112" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>589</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.383" y="-0.118" z="8.339" />
+					<Rotation x="-0.0" y="110.3" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="113" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>608</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.000" y="-0.118" z="9.922" />
+					<Rotation x="-0.0" y="96.8" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="114" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>627</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.898" y="-0.118" z="11.505" />
+					<Rotation x="-0.0" y="96.8" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="115" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>646</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.584" y="-0.118" z="12.922" />
+					<Rotation x="-0.0" y="110.3" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="116" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>931</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.584" y="-0.118" z="12.922" />
+					<Rotation x="-0.0" y="-110.3" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="117" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>912</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.898" y="-0.118" z="11.505" />
+					<Rotation x="-0.0" y="-96.8" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="118" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>893</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.000" y="-0.118" z="9.922" />
+					<Rotation x="-0.0" y="-96.8" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="119" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>874</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.383" y="-0.118" z="8.339" />
+					<Rotation x="-0.0" y="-110.3" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="120" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>855</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.163" y="-0.118" z="6.857" />
+					<Rotation x="-0.0" y="-123.8" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="121" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>836</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="3.297" y="-0.118" z="5.631" />
+					<Rotation x="-0.0" y="-141.8" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="122" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>817</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="4.954" y="-0.118" z="4.933" />
+					<Rotation x="0.0" y="-173.3" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="123" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>798</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="6.666" y="-0.118" z="4.935" />
+					<Rotation x="0.0" y="173.2" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="124" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>779</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="8.627" y="-0.118" z="5.460" />
+					<Rotation x="0.0" y="155.2" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="125" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>760</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="10.405" y="-0.118" z="6.611" />
+					<Rotation x="-0.0" y="137.2" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="126" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>741</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="11.770" y="-0.118" z="8.330" />
+					<Rotation x="-0.0" y="119.2" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="127" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>722</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="13.267" y="-0.118" z="8.360" />
+					<Rotation x="-0.0" y="-119.3" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="128" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>703</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="14.504" y="-0.118" z="6.750" />
+					<Rotation x="0.0" y="-137.3" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="129" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>684</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="16.248" y="-0.118" z="5.550" />
+					<Rotation x="-0.0" y="-155.3" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Profile Basic 16-Bit" fixture_id="130" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Profile Basic 16-Bit">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>665</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="18.359" y="-0.118" z="4.948" />
+					<Rotation x="-0.0" y="-173.3" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+	<Layer name="1.4 Martin Quantum Wash">
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="301" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1161</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-14.229" y="-0.120" z="2.126" />
+					<Rotation x="0.0" y="-67.5" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="302" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1212</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-13.897" y="-0.120" z="2.927" />
+					<Rotation x="0.0" y="-67.5" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="303" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1178</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-13.564" y="-0.120" z="3.728" />
+					<Rotation x="0.0" y="-67.5" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="304" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1195</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-13.232" y="-0.120" z="4.529" />
+					<Rotation x="0.0" y="-67.5" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="305" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1127</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-11.771" y="-0.120" z="4.529" />
+					<Rotation x="0.0" y="67.5" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="306" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1110</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-11.439" y="-0.120" z="3.728" />
+					<Rotation x="0.0" y="67.5" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="307" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1144</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-11.108" y="-0.120" z="2.926" />
+					<Rotation x="0.0" y="67.5" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="308" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1093</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-10.777" y="-0.120" z="2.125" />
+					<Rotation x="0.0" y="67.5" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="309" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>950</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="10.777" y="-0.120" z="2.125" />
+					<Rotation x="0.0" y="-67.5" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="310" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1001</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="11.108" y="-0.120" z="2.926" />
+					<Rotation x="0.0" y="-67.5" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="311" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>967</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="11.439" y="-0.120" z="3.728" />
+					<Rotation x="0.0" y="-67.5" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="312" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>984</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="11.771" y="-0.120" z="4.529" />
+					<Rotation x="0.0" y="-67.5" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="313" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1059</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="13.232" y="-0.120" z="4.529" />
+					<Rotation x="0.0" y="67.5" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="314" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1042</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="13.564" y="-0.120" z="3.728" />
+					<Rotation x="0.0" y="67.5" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="315" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1076</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="13.897" y="-0.120" z="2.927" />
+					<Rotation x="0.0" y="67.5" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Quantum Wash Basic 2.0.0" fixture_id="316" channel_id="0">
+			<FixtureType name="1 Martin MAC Quantum Wash Basic 2.0.0">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="00ff00">
+				<Patch>
+					<Address>1025</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="14.229" y="-0.120" z="2.126" />
+					<Rotation x="0.0" y="67.5" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+	<Layer name="1.5 Martin Mac Viper Profile">
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="201" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1641</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-16.470" y="-0.118" z="2.169" />
+					<Rotation x="0.0" y="90.0" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="202" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1615</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-16.470" y="-0.118" z="3.443" />
+					<Rotation x="0.0" y="90.0" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="203" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1563</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-16.124" y="-0.118" z="2.806" />
+					<Rotation x="0.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="204" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1589</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-16.124" y="-0.118" z="4.080" />
+					<Rotation x="0.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="205" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1537</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-8.941" y="-0.118" z="2.041" />
+					<Rotation x="0.0" y="90.0" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="206" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1489</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-8.941" y="-0.118" z="3.315" />
+					<Rotation x="0.0" y="90.0" z="-0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="207" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1437</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-8.595" y="-0.118" z="2.678" />
+					<Rotation x="0.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="208" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1463</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-8.595" y="-0.118" z="3.951" />
+					<Rotation x="0.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="209" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1229</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="8.595" y="-0.118" z="2.678" />
+					<Rotation x="0.0" y="90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="210" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1255</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="8.595" y="-0.118" z="3.951" />
+					<Rotation x="0.0" y="90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="211" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1307</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="8.941" y="-0.118" z="2.041" />
+					<Rotation x="0.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="212" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1281</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="8.941" y="-0.118" z="3.315" />
+					<Rotation x="0.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="213" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1333</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="16.124" y="-0.118" z="2.806" />
+					<Rotation x="0.0" y="90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="214" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1359</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="16.124" y="-0.118" z="4.080" />
+					<Rotation x="0.0" y="90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="215" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1411</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="16.470" y="-0.118" z="2.169" />
+					<Rotation x="0.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin MAC Viper Profile 16-Bit Basic" fixture_id="216" channel_id="0">
+			<FixtureType name="1 Martin MAC Viper Profile 16-Bit Basic">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff0000">
+				<Patch>
+					<Address>1385</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="16.470" y="-0.118" z="3.443" />
+					<Rotation x="0.0" y="-90.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+	<Layer name="1.6 Elation Arena Par">
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="1" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1667</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.915" y="-0.000" z="7.033" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="2" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1672</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.395" y="-0.000" z="7.611" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="3" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1677</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.675" y="-0.000" z="8.399" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="4" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1682</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.227" y="-0.000" z="8.998" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="5" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1687</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.449" y="-0.000" z="9.808" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="6" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1692</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.284" y="-0.000" z="10.581" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="7" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1697</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.227" y="-0.000" z="11.495" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="8" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1702</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.173" y="-0.000" z="12.397" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="9" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1707</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.915" y="-0.000" z="7.033" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="10" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1712</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.395" y="-0.000" z="7.611" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="11" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1717</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.675" y="-0.000" z="8.399" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="12" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1722</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.227" y="-0.000" z="8.998" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="13" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1727</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.449" y="-0.000" z="9.808" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="14" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1732</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.284" y="-0.000" z="10.581" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="15" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1737</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.227" y="-0.000" z="11.495" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Elation Arena Par Zoom 5 Channel 2" fixture_id="16" channel_id="0">
+			<FixtureType name="1 Elation Arena Par Zoom 5 Channel 2">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="0000ff">
+				<Patch>
+					<Address>1742</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.173" y="-0.000" z="12.397" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+	<Layer name="1.7 8Cell Molefay">
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1101">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1753</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-18.962" y="-0.118" z="4.504" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1102">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1752</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-15.130" y="-0.118" z="5.750" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1103">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1751</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-12.866" y="-0.118" z="8.373" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1104">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1750</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-12.194" y="-0.118" z="8.370" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1105">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1749</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-9.839" y="-0.118" z="5.683" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1106">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1748</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-6.308" y="-0.118" z="4.503" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1107">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1747</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-5.095" y="-0.118" z="4.513" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1108">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1754</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.485" y="-0.118" z="5.879" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1109">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1755</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.882" y="-0.118" z="10.780" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1110">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1756</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.002" y="-0.118" z="14.124" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1111">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1765</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.882" y="-0.118" z="10.780" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1112">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1764</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.485" y="-0.118" z="5.879" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1113">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1757</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="5.095" y="-0.118" z="4.513" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1114">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1758</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="6.308" y="-0.118" z="4.503" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1115">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1759</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="9.839" y="-0.118" z="5.683" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1116">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1760</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="12.194" y="-0.118" z="8.370" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1117">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1761</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="12.866" y="-0.118" z="8.373" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1118">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1762</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="15.130" y="-0.118" z="5.750" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1119">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1763</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="18.962" y="-0.118" z="4.504" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1120">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1766</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-2.383" y="-3.532" z="4.345" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="James Thomas Engineering Molefay 8 Cell Blinder Control" fixture_id="0" channel_id="1121">
+			<FixtureType name="1 James Thomas Engineering Molefay 8 Cell Blinder Control">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ffff00">
+				<Patch>
+					<Address>1767</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="2.383" y="-3.532" z="4.345" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+	<Layer name="1.8 Martin Atomic 3000 LED">
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1001" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1786</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-17.227" y="-0.118" z="4.735" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1002" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1783</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-13.608" y="-0.118" z="7.167" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1003" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1780</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-11.467" y="-0.118" z="7.182" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1004" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1777</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-7.793" y="-0.118" z="4.715" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1005" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1768</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-3.806" y="-0.118" z="4.846" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1006" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1771</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.118" y="-0.118" z="8.060" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1007" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1774</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.002" y="-0.118" z="13.472" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1008" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1795</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.118" y="-0.118" z="8.060" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1009" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1792</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="3.806" y="-0.118" z="4.846" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1010" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1798</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="7.793" y="-0.118" z="4.715" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1011" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1801</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="11.467" y="-0.118" z="7.182" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1012" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1804</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="13.608" y="-0.118" z="7.167" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1013" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1807</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="17.227" y="-0.118" z="4.735" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1014" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1789</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-1.038" y="-3.559" z="4.847" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+		<Fixture name="Martin Atomic 3000 LED 3 Channel Mode" fixture_id="1015" channel_id="0">
+			<FixtureType name="1 Martin Atomic 3000 LED 3 Channel Mode">
+				<No>1</No>
+			</FixtureType>
+			<SubFixture react_to_grandmaster="true" color="ff8040">
+				<Patch>
+					<Address>1810</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="1.038" y="-3.559" z="4.847" />
+					<Rotation x="-90.0" y="-0.0" z="0.0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+			</SubFixture>
+		</Fixture>
+	</Layer>
+</MA>
